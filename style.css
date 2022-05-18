@@ -1,0 +1,42 @@
+body{
+    font-family: 'Cedarville Cursive', cursive;;
+    background-color:darkseagreen;
+}
+
+.header-div {
+    color:aliceblue;
+    background-color:darkgray;
+}
+
+.header-div p{
+    font-family:'Courier New', Courier, monospace;
+    color:aliceblue;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.main_div button{
+    margin-top: 30px;
+    font-size: 20px;
+    width: 120px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.main_div h3{
+    color:purple;
+}
+
+.copy_right_footer{
+    background-color:darkgrey;
+    position: fixed;
+    bottom: 0;
+    color:aliceblue;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    line-height: 3;
+    box-shadow: 5px 5px 5px white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
